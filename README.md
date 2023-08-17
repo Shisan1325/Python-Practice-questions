@@ -658,7 +658,7 @@ print(find_median_sorted_arrays([1, 2], [3, 4]))
 
 ----
 
-## 5.存在重复元素
+## 10.存在重复元素
 
 难度：<span style="background-color: #D62E04; color: white; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; padding: 3px 10px; border-radius: 8px;">困难</span>
 
